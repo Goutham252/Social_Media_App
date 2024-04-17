@@ -16,7 +16,7 @@ Full-Stack Social App with Spring boot and React
 
 **Client:** React, Chakra UI
 
-**Server:** Java, Spring boot, PostgreSQL
+**Server:** Java, Spring boot, MySQL
 
 ### Usage
  
